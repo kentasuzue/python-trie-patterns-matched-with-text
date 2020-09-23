@@ -1,5 +1,5 @@
 # python-trie-patterns-matched-with-text
-Matches are found between a text and a trie that stores multiple patterns 
+Matches are found between a text and a trie that stores multiple patterns.
 
 This Python program makes a trie from multiple string patterns, and finds matches within a text.  The first line of input is the text. The second line of input is an integer number N of patterns.  Each of the next N lines of input is one of the N patterns.  The output is a space delimited list of the 0-based index for every starting position of a substring in the text that matches any of the patterns.
 
